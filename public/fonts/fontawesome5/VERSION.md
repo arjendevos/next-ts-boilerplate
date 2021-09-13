@@ -1,0 +1,1 @@
+fontawesome-pro-5.10.1-web
